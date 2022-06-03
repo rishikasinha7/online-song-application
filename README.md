@@ -3,7 +3,7 @@ A simple online music application to start off with the basics of android app de
 
 The finished app screen has a basic, low level display.
 
-The volume button is a slider that can be used ti increase or decrease the volume, the 'play' and 'stop' buttons have been added.
+The volume button is a slider that can be used to increase or decrease the volume; the 'play' and 'stop' buttons have been added.
 
 The 'play' button turns into 'Pause' button while the song is playing.
 
